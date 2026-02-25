@@ -29,6 +29,8 @@ OpenWeatherMap API – For real-time weather data
 CSS – Styling with gradient background and card layout
 
 Vite – Development server and build tool
+
+
 <img width="452" height="766" alt="Screenshot 2026-02-25 135023" src="https://github.com/user-attachments/assets/18f7f032-1290-4f38-8062-18e2a5cebdab" />
 <img width="540" height="786" alt="Screenshot 2026-02-25 135037" src="https://github.com/user-attachments/assets/0d886dca-115a-4c00-8110-5c5453fcb9fc" />
 
